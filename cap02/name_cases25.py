@@ -1,0 +1,1 @@
+print('Herny Ford dijo una vez "La mayoría de las personas gastan más tiempo y energías en hablar de los problemas que en afrontarlos"')

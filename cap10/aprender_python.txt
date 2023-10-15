@@ -1,0 +1,5 @@
+En Python se puede acceder a librerías de código preparadas por otros desarrolladores.
+En Python se puede separar y organizar el código para que este sea escalable y facilmente legible.
+En Python se puede interactuar con el usuario.
+En Python se puede hacer distintos tipos de software: web, ciencia de datos y juegos.
+En Python se puede aprender rápido.
